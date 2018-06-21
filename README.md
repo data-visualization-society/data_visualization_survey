@@ -8,7 +8,7 @@ Survey results in the data folder.
 
 # 2018
 
-[![design time distribution](visualization/2018_results_viz.png "design time distribution")](https://medium.com/p/26a90856476b)
+[![design time distribution](visualization/2018_results_viz.png "design time distribution")](https://medium.com/@Elijah_Meeks/2018-data-visualization-survey-results-26a90856476b)
 
 # 2017
 
