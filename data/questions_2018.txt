@@ -1,0 +1,49 @@
+Experience (Buckets)
+How many years have you been doing data visualization?
+What is your educational background?
+What was your major?
+Did you learn how to do data visualization in school or did you learn how to do it on your own?
+What method do you think best teaches data visualization?
+Did you set out to work in data visualization?
+Is this your first job where data visualization is a part of your responsibilities?
+What is your official job title?
+Is your total compensation in-line with Software Engineers and UX/UI/Designer roles at your level?
+What focus is data visualization in your work?
+For your current role or the majority of your projects: were you hired to do data visualization only or is data visualization a part of your job/project description?
+Do you do more or less data visualization than you expected for this role?
+What's your employment status
+How is your organization using data visualization?
+Is there a separate group that does data visualizations or are you embedded in another group? (data science, UX, UI, web, data engineering, IT, etc)
+What modes of data visualization are in use at your organization?
+Do you feel the leadership in your organization has a strong understanding of the value of data visualization?
+Data visualization roles at your organization are found in what part of the organization?
+How many hours a day are focused on creating/implementing/productizing data visualizations?
+How many hours a day are focused on data engineering?
+How many hours a day are focused on data science?
+How many hours a day are focused on design?
+How many hours a day are focused on data prep work?
+How many hours a day are focused on building your portfolio?
+What technologies do you use to visualize data?
+Are you able to choose your own tools or are the choices made for you?
+How do you present your data visualizations?
+Which of these charts have you used in production in the last 6 months:
+Who do you make data visualizations for?
+What knowledge level do they have of the data you are visualizing for them?
+How often do they consume your data visualizations?
+What do they use your data visualizations for?
+How would you describe your relationship with stakeholders?
+I have adequate resources to explore the data visualization options I want to use. 
+I aspire to be better at: 
+What is your biggest frustration with doing data visualization in your job?
+If you could change one thing about your data visualization work what would it be?
+What do you think other people in your organization just don’t get about the data visualization work that you do?
+I want to make better visualizations but don’t have the time/energy/resources.
+I’m always on the lookout for new data visualization tools and techniques that will make my workflows faster and more efficient.
+What one change would make the data visualization aspect of your job better?
+What community support / discussions / advice would you want to see from data visualization thought leaders?
+Who do you look to as a thought leader in data visualization?
+Do you want to spend more time or less time visualizing data in the future?
+Gender
+Age
+Where do you live?
+The organization you work for is in which of the following?
