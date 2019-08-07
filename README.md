@@ -1,10 +1,15 @@
 Results from a Data Visualization Surveys:
 
 Feb 27 - March 8th 2017
-May 9 - May 29 2017
+May 9 - May 29 2018
+May 13 - June 16 2019
+
 ======
 
 Survey results in the data folder.
+
+# 2019
+[![not enough time responses](visualization/2019_results_viz.png "not enough time responses")](https://medium.com/nightingale/2019-annual-data-visualization-survey-results-334d3523073f)
 
 # 2018
 
