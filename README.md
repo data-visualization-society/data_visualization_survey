@@ -1,7 +1,9 @@
 Results from a Data Visualization Surveys:
 
 Feb 27 - March 8th 2017
+
 May 9 - May 29 2018
+
 May 13 - June 16 2019
 
 ======
