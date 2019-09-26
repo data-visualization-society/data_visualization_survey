@@ -8,7 +8,7 @@ May 13 - June 16 2019
 
 ======
 
-Survey results in the data folder.
+Survey results in the data folder. SPSS formatted 2019 results provided by Tabx.
 
 # 2019
 [![not enough time responses](visualization/2019_results_viz.png "not enough time responses")](https://medium.com/nightingale/2019-annual-data-visualization-survey-results-334d3523073f)
