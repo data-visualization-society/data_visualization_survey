@@ -1,0 +1,238 @@
+Variable Name,Value Description,Question Block
+How many years of professional experience do you have?,Categorical 5-year increments,All
+How many years of data visualization experience do you have doing professional data visualization?,"Categorical, one year increments for values less than five, five year increments thereafter.",All
+Are you a Data Visualization Society member?,y/n,All
+How did you learn data visualization?,"Categorical, values as string",All
+What is the highest level of education you have completed?,"Categorical, values as string",All
+"If you went to college, in what area was your undergraduate major?","Categorical, values as string",All
+In what area was your graduate degree?,"Categorical, values as string",All
+What country do you live in?,"Categorical, values as string",All
+Do you consider yourself a member of a historically disadvantaged or underrepresented racial or ethnic group?,y/n,All
+Which of these best describes your role as a data visualizer in the past year?,Freelance/Consultant/ Independent contractor,All
+Which of these best describes your role as a data visualizer in the past year?_1,Position in an organization with some data viz job responsibilities,All
+Which of these best describes your role as a data visualizer in the past year?_2,Non-compensated data visualization hobbyist,All
+Which of these best describes your role as a data visualizer in the past year?_3,Student,All
+Which of these best describes your role as a data visualizer in the past year?_4,Academic/Teacher,All
+Which of these best describes your role as a data visualizer in the past year?_5,Passive income from data visualization related products,All
+For the majority of your projects: were you hired to do data visualization only or is data visualization a part of your job/project description?,"Categorical, values as string",Freelance
+Which one of these is the closest to describing your role when hired to freelance?,"Categorical, values as string",Freelance
+"For most of your projects, are you able to choose your own tools or are the choices made for you?","Categorical, values as string",Freelance
+"As a freelancer, who do you make data visualizations for?",General Public,Freelance
+"As a freelancer, who do you make data visualizations for?_1",Analysts,Freelance
+"As a freelancer, who do you make data visualizations for?_2",Engineers,Freelance
+"As a freelancer, who do you make data visualizations for?_3",Scientists,Freelance
+"As a freelancer, who do you make data visualizations for?_4",Medical Professionals,Freelance
+"As a freelancer, who do you make data visualizations for?_5",Product or Project Managers,Freelance
+"As a freelancer, who do you make data visualizations for?_6",Policy Makers,Freelance
+"As a freelancer, who do you make data visualizations for?_7",Executives,Freelance
+"As a freelancer, who do you make data visualizations for?_8",Designers,Freelance
+"As a freelancer, who do you make data visualizations for?_9",Researchers,Freelance
+"As a freelancer, who do you make data visualizations for?_10",Students or Teachers,Freelance
+"As a freelancer, who do you make data visualizations for?_11",Only myself,Freelance
+"As a freelancer, who do you make data visualizations for?_12","Other, free text",Freelance
+The organization you work for is in which of the following areas?,Journalism,Organization Employee
+The organization you work for is in which of the following areas?_1,Public sector (government),Organization Employee
+The organization you work for is in which of the following areas?_2,Private sector,Organization Employee
+The organization you work for is in which of the following areas?_3,Not-for-profit,Organization Employee
+The organization you work for is in which of the following areas?_4,Healthcare/medical,Organization Employee
+The organization you work for is in which of the following areas?_5,Information Technology,Organization Employee
+The organization you work for is in which of the following areas?_6,Marketing,Organization Employee
+The organization you work for is in which of the following areas?_7,Academia,Organization Employee
+The organization you work for is in which of the following areas?_8,Consultant (therefore multiple areas),Organization Employee
+The organization you work for is in which of the following areas?_9,"Other, free text",Organization Employee
+What is the size of your organization?,"Categorical, values as string",Organization Employee
+Which of these best describes the role of data visualization in your job?,"Categorical, values as string",Organization Employee
+Which one of these is the closest to describing your role at your organization?,"Categorical, values as string",Organization Employee
+How is your organization using data visualization?,Analysis,Organization Employee
+How is your organization using data visualization?_1,Machine Learning,Organization Employee
+How is your organization using data visualization?_2,Summary/Overview,Organization Employee
+How is your organization using data visualization?_3,Communication,Organization Employee
+How is your organization using data visualization?_4,Marketing,Organization Employee
+How is your organization using data visualization?_5,Exploration,Organization Employee
+How is your organization using data visualization?_6,Storytelling,Organization Employee
+How is your organization using data visualization?_7,Education,Organization Employee
+How is your organization using data visualization?_8,"Other, free text",Organization Employee
+Is there a separate group dedicated to creating data visualization or are data visualization specialists embedded in another group?,There are no specialists in data visualization in my organization,Organization Employee
+What modes of data visualization are in use at your organization?,Business Intelligence Tools (like Tableau),Organization Employee
+What modes of data visualization are in use at your organization?_1,Interactive Notebooks,Organization Employee
+What modes of data visualization are in use at your organization?_2,"General purpose charting libraries (plotly, highcharts)",Organization Employee
+What modes of data visualization are in use at your organization?_3,"Completely custom (matplotlib, ggplot2, Processing, D3, custom code)",Organization Employee
+What modes of data visualization are in use at your organization?_4,Hand-crafted in a graphics editor (Illustrator),Organization Employee
+What modes of data visualization are in use at your organization?_5,Hand-crafted with pen &amp; paper or other physical means,Organization Employee
+What modes of data visualization are in use at your organization?_6,Other: Excel,Organization Employee
+Leadership in your organization has a strong understanding of the value of data visualization,"Categorical, values as string",Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?,Design,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_1,Engineering,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_2,Marketing,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_3,Research,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_4,IT,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_5,Leadership,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_6,Data Science/Analytics,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_7,Communications,Organization Employee
+Data visualization at your organization features prominently in what parts of the organization?_8,Other: Operations,Organization Employee
+How would you describe your relationship with stakeholders?,"Categorical, values as string",Organization Employee
+Are you able to choose your own tools or are the choices made for you?,"Categorical, values as string",Organization Employee
+"In your role within your organization, who do you make data visualizations for?",General Public,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_1",Analysts,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_2",Engineers,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_3",Scientists,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_4",Medical Professionals,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_5",Product or Project Managers,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_6",Policy Makers,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_7",Executives,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_8",Designers,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_9",Researchers,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_10",Students or Teachers,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_11",Only myself,Organization Employee
+"In your role within your organization, who do you make data visualizations for?_12","Other, free text",Organization Employee
+How many hours per week do you spend doing data visualization as a hobby or side project?,"Categorical, values as string",Hobbyist
+"I work on uncompensated data visualization side projects in the hope of future professional benefit, such as building my public profile or developing a more impressive portfolio.","disagree-agree, 7 point scale",Hobbyist
+I work on uncompensated data visualization side projects purely for my own personal enjoyment.,"disagree-agree, 7 point scale",Hobbyist
+Are you a full time or part time student?,"Categorical, values as string",Student
+What degree are you currently pursuing?,"Categorical, values as string",Student
+Is data visualization formally taught within your degree program?,y/n,Student
+What are you pursuing a degree in?,"Categorical, values as string",Student
+In what academic area are you employed?,"Categorical, values as string",Teacher
+Do you teach data visualization as a primary course topic?,y/n,Teacher
+How do you use data visualization in your work?,Communication of research findings,Teacher
+How do you use data visualization in your work?_1,Instructional purposes,Teacher
+How do you use data visualization in your work?_2,As a topic of academic research,Teacher
+How do you use data visualization in your work?_3,Other,Teacher
+How many hours a week have you worked?,Fewer than 20 hours/week,All
+Hours a week focused on creating/implementing/producing data visualizations?,"Categorical, values as string",All
+Hours a week focused on data engineering?,numeric,All
+Hours a week focused on data science?,numeric,All
+Hours a week focused on design?,numeric,All
+Hours a week focused on data prep work?,numeric,All
+Hours a week focused on building your portfolio?,numeric,All
+What technologies do you use to visualize data?,ArcGIS,All
+What technologies do you use to visualize data?_1,Cytoscape,All
+What technologies do you use to visualize data?_2,D3.js,All
+What technologies do you use to visualize data?_3,Angular,All
+What technologies do you use to visualize data?_4,Excel,All
+What technologies do you use to visualize data?_5,ggplot2,All
+What technologies do you use to visualize data?_6,Gephi,All
+What technologies do you use to visualize data?_7,Highcharts,All
+What technologies do you use to visualize data?_8,Illustrator,All
+What technologies do you use to visualize data?_9,Java,All
+What technologies do you use to visualize data?_10,Leaflet,All
+What technologies do you use to visualize data?_11,Mapbox,All
+What technologies do you use to visualize data?_12,kepler.gl,All
+What technologies do you use to visualize data?_13,Microstrategy,All
+What technologies do you use to visualize data?_14,Plotly,All
+What technologies do you use to visualize data?_15,Power BI,All
+What technologies do you use to visualize data?_16,Matplotlib,All
+What technologies do you use to visualize data?_17,Python,All
+What technologies do you use to visualize data?_18,QGIS,All
+What technologies do you use to visualize data?_19,Qlik,All
+What technologies do you use to visualize data?_20,R,All
+What technologies do you use to visualize data?_21,React,All
+What technologies do you use to visualize data?_22,Semiotic,All
+What technologies do you use to visualize data?_23,Tableau,All
+What technologies do you use to visualize data?_24,Vega,All
+What technologies do you use to visualize data?_25,Vue,All
+What technologies do you use to visualize data?_26,Web Components,All
+What technologies do you use to visualize data?_27,WebGL,All
+What technologies do you use to visualize data?_28,Pen &amp; Paper,All
+What technologies do you use to visualize data?_29,Physical materials (other than pen and paper),All
+What technologies do you use to visualize data?_30,Greensock,All
+What technologies do you use to visualize data?_31,Canvas,All
+What technologies do you use to visualize data?_32,P5/Processing,All
+What technologies do you use to visualize data?_33,"Other, free text",All
+How do you present your data visualizations?,Embedded in a tool,All
+How do you present your data visualizations?_1,Dashboard,All
+How do you present your data visualizations?_2,Scrollytelling,All
+How do you present your data visualizations?_3,Static Web Page,All
+How do you present your data visualizations?_4,Interactive Notebook,All
+How do you present your data visualizations?_5,Documents or report,All
+How do you present your data visualizations?_6,Presentations,All
+How do you present your data visualizations?_7,Email,All
+How do you present your data visualizations?_8,Newspaper or magazine,All
+How do you present your data visualizations?_9,Peer reviewed journal publication,All
+How do you present your data visualizations?_10,Physical handout or Printed on paper,All
+How do you present your data visualizations?_11,Physical medium other than printed on paper,All
+How do you present your data visualizations?_12,Augmented or Virtual reality,All
+How do you present your data visualizations?_13,Installation,All
+How do you present your data visualizations?_14,App,All
+How do you present your data visualizations?_15,Video,All
+How do you present your data visualizations?_16,"Other, free text",All
+Which of these charts have you used in production in the last 6 months?,Line Chart,All
+Which of these charts have you used in production in the last 6 months?_1,Bar Chart,All
+Which of these charts have you used in production in the last 6 months?_2,Pie Chart,All
+Which of these charts have you used in production in the last 6 months?_3,Scatterplot,All
+Which of these charts have you used in production in the last 6 months?_4,Hexbin/Heatmap,All
+Which of these charts have you used in production in the last 6 months?_5,Infographics,All
+Which of these charts have you used in production in the last 6 months?_6,Pictorial Visualization,All
+Which of these charts have you used in production in the last 6 months?_7,Treemap,All
+Which of these charts have you used in production in the last 6 months?_8,Dendrogram,All
+Which of these charts have you used in production in the last 6 months?_9,Network Diagram,All
+Which of these charts have you used in production in the last 6 months?_10,Choropleth Map,All
+Which of these charts have you used in production in the last 6 months?_11,Raster Map,All
+Which of these charts have you used in production in the last 6 months?_12,"Flow Diagram (Sankey, DAGRE, Flow Chart)",All
+Which of these charts have you used in production in the last 6 months?_13,3D Chart,All
+Which of these charts have you used in production in the last 6 months?_14,VR/AR Chart,All
+Which of these charts have you used in production in the last 6 months?_15,Bee Swarm Chart,All
+Which of these charts have you used in production in the last 6 months?_16,Force-Directed Graph,All
+Which of these charts have you used in production in the last 6 months?_17,Other: Donut Chart,All
+What is the general level data literacy in the audience you produce visualizations for?,Low,All
+What is the general level data literacy in the audience you produce visualizations for?_1,Moderate,All
+What is the general level data literacy in the audience you produce visualizations for?_2,Expert,All
+What is your yearly pay (converted to US dollars)?,"Categorical, values as string",All
+What is your hourly rate (converted to US dollars)?,"Categorical, values as string",All
+"Do you have access to professional development funds or grants to pay for professional costs such as conference registrations, memberships, software and/or training?",y/n,All
+How much is your annual professional development fund in US dollars?,numeric,All
+Which of the following would you be likely to use professional development funds on?,Conference registration,All
+Which of the following would you be likely to use professional development funds on?_1,Conference travel and lodging,All
+Which of the following would you be likely to use professional development funds on?_2,Data visualization software licenses,All
+Which of the following would you be likely to use professional development funds on?_3,Workshops or training seminars,All
+Which of the following would you be likely to use professional development funds on?_4,Professional association memberships,All
+Which of the following would you be likely to use professional development funds on?_5,Professional books,All
+Which of the following would you be likely to use professional development funds on?_6,Tuition for graduate coursework,All
+Which of the following would you be likely to use professional development funds on?_7,Data licensing,All
+Which of the following would you be likely to use professional development funds on?_8,"Other, free text",All
+I have adequate resources to explore the data visualization options I want to use.,"disagree-agree, 7 point scale",All
+What are your biggest frustrations with doing data visualization in your job?,Lack of time,All
+What are your biggest frustrations with doing data visualization in your job?_1,Lack of design expertise,All
+What are your biggest frustrations with doing data visualization in your job?_2,Lack of technical skill,All
+What are your biggest frustrations with doing data visualization in your job?_3,Learning new tools/Approaches,All
+What are your biggest frustrations with doing data visualization in your job?_4,Accessing data,All
+What are your biggest frustrations with doing data visualization in your job?_5,Information overload,All
+What are your biggest frustrations with doing data visualization in your job?_6,Lack of Collaboration/Mentorship/Advice,All
+What are your biggest frustrations with doing data visualization in your job?_7,Low Data Literacy Among Stakeholders/Audience,All
+What are your biggest frustrations with doing data visualization in your job?_8,Not enough respect for data visualization among leadership/audience,All
+What are your biggest frustrations with doing data visualization in your job?_9,Technical limitations of the tools,All
+What are your biggest frustrations with doing data visualization in your job?_10,Too much effort spent on non-viz activity,All
+What are your biggest frustrations with doing data visualization in your job?_11,Data volume,All
+What are your biggest frustrations with doing data visualization in your job?_12,"Other, free text",All
+If you could change one thing about your data visualization work what would it be?,More Training/ more skills,All
+What do you think other people in your organization just don't get about the data visualization work that you do?,Free text field,All
+Have you changed employment or had a change in employment status in the last year?,y/n,All
+Was the current coronavirus pandemic and related economic crisis a factor in your change in employment or employment status?,y/n,All
+Are you currently looking for new employment opportunities?,y/n,All
+"In your next role, would you like:","Categorical, values as string",All
+What are the three most important issues facing data visualization?,Lack of awareness of the impact of data viz,All
+What are the three most important issues facing data visualization?_1,Data visualization not having a eat at the table,All
+What are the three most important issues facing data visualization?_2,Diversity in tech,All
+What are the three most important issues facing data visualization?_3,Income inequality,All
+What are the three most important issues facing data visualization?_4,Lack of data visualization literacy,All
+What are the three most important issues facing data visualization?_5,Designing for disabilities,All
+What are the three most important issues facing data visualization?_6,Lack of access to education,All
+What are the three most important issues facing data visualization?_7,Algorithmic bias,All
+What are the three most important issues facing data visualization?_8,Lack of ethical standards for visualizing data,All
+What are the three most important issues facing data visualization?_9,Lack of software literacy,All
+What area is your next priority for improving your data visualization skills?,Learning a new technical tool or library,All
+What area is your next priority for improving your data visualization skills?_1,Improving my skills with an existing technical tool or library,All
+What area is your next priority for improving your data visualization skills?_2,Improving my design skills,All
+What area is your next priority for improving your data visualization skills?_3,Improving my data skills,All
+What area is your next priority for improving your data visualization skills?_4,I don't feel I need to improve my data visualization skills currently,All
+What area is your next priority for improving your data visualization skills?_5,"Other, free text",All
+What methods do you find most helpful in learning new data visualization skills?,Books,All
+What methods do you find most helpful in learning new data visualization skills?_1,Workshops,All
+What methods do you find most helpful in learning new data visualization skills?_2,Examples,All
+What methods do you find most helpful in learning new data visualization skills?_3,Video Tutorials,All
+What methods do you find most helpful in learning new data visualization skills?_4,Collaboration with more skilled practitioners,All
+What methods do you find most helpful in learning new data visualization skills?_5,Working through a project,All
+What methods do you find most helpful in learning new data visualization skills?_6,Mentoring/Teaching others,All
+What methods do you find most helpful in learning new data visualization skills?_7,"Other, free text",All
+Who do you look to as a leader in data visualization?,Free text field,All
+gender_collapsed,"Categorical, values as string",All
